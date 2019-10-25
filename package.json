@@ -1,0 +1,22 @@
+{
+  "name": "cp3",
+  "version": "1.0.0",
+  "description": "CP3 CS260",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonemuss/CP3.git"
+  },
+  "author": "Hank Eaton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anonemuss/CP3/issues"
+  },
+  "homepage": "https://github.com/anonemuss/CP3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
